@@ -20,4 +20,4 @@ try:
             for y in x:
                 print(y, end=" ")
 except ValueError:
-    print("ERROR: Has insertado un formado incorrecto, intentalo de nuevo.")
+    print("ERROR: Has insertado un formato incorrecto, intentalo de nuevo.")
