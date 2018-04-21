@@ -10,8 +10,8 @@ El script funciona con python3, al ejecutar run.py desde la terminal saldrá el 
 
 <pre>Porfavor ingrese la cadena de numeros ->:</pre>
 
-Al cual se le deben pasar cadenas de numeros con el mismo formato exido en el ejercicio: 
-"tamaño,numeros tamaño,numeros tamaño,numeros.... 0,0" 0,0 va de ultimo y finaliza a ejecusión,
+Al cual se le deben pasar cadenas de numeros con el mismo formato exigido en el ejercicio: 
+"tamaño,numeros tamaño,numeros tamaño,numeros.... 0,0" 0,0 va de ultimo y finaliza la ejecusión,
 todo lo que haya despues no se leerá, ejemplo:
 
 
