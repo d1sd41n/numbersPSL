@@ -54,7 +54,7 @@ Este es el resultado:
  ____| |____|  ____| | |____|
  </pre>
  
- Si se introduce Indebidamente las cadenas saldrá un mensaje de error y la ejecusion se cerrará.
+ Si se introduce Indebidamente las cadenas saldrá un mensaje de advertencia y la ejecusion se cerrará.
  
  
  Saludos, Daniel
