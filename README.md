@@ -3,9 +3,6 @@
 Cordial saludo estimado equipo de talento humano de PSL
 
 
- # Convertidor de numeros a arte ascii
-
-
 El script esta compuesto por tres módulos: numbers.py, run.py, autorun.py; En numbers.py se encuentra la clase 
 que contiene el algoritmo fundamental de este ejercicio la cual he documentado, run.py es el ejecutable principal 
 de ahí se inicia el script, autorun.py es para testear el algoritmo, imprime todos los números en todos los tamaños.
