@@ -3,7 +3,7 @@
 Cordial saludo estimado equipo de talento humano de PSL
 
 
-Convertidor de numeros a arte ascii
+ # Convertidor de numeros a arte ascii
 
 
 El script esta compuesto por tres módulos: numbers.py, run.py, autorun.py; En numbers.py se encuentra la clase 
